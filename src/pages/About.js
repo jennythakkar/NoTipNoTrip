@@ -6,6 +6,7 @@ import HandHold from "../handhold.png";
 import Rich from "../rich.png";
 import Power from "../power.png";
 import Symbol from "../symbol.png";
+import Footer from '../components/Footer';
 import Nav from "../Nav.png";
 
 function About() {
@@ -25,7 +26,8 @@ function About() {
       <h2 style={{textAlign: "center"}}>To help delivery drivers, we built this site to help <p style={{ color: "red" }}> determine their minimum cost per mile. </p> Meaning, what is the minimum per mile they must make in order to cover their operational expenses.</h2>
       <img src={Power} alt = "Power" /> 
       <h2 style={{textAlign: "center"}}>From one delivery driver to another. Let’s <p style={{ color: "red" }}>“No Tip, No Trip” </p> together!</h2>
-      <h2 style={{textAlign: "center"}}><p style={{ color: "red" }}>Legal Disclaimer</p><p style={{ color: "red" }}>© 2022 Drivers United </p></h2>
+      <Footer />
+  
   </div>
   );
 }

@@ -21,6 +21,7 @@ function App() {
           <Route path='/Trip' component={Trip} />
           <Route path='/Resource' component={Resource} />
         </Switch>
+
       </Router>
     </>
   );

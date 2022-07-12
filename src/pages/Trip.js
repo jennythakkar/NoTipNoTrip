@@ -1,5 +1,7 @@
 import React from 'react';
 import '../index.css';
+import Footer from '../components/Footer';
+
 
 
 function Trip() {
@@ -17,7 +19,7 @@ function Trip() {
       <br/>
       <h2 style={{textAlign: "center"}}>As drivers, it is our responsibility to deter customers from taking advantage of the service we provide and continue our fight for a living wage.</h2>
       <br/>
-      <h2 style={{textAlign: "center"}}><p style={{ color: "red" }}>Legal Disclaimer</p><p style={{ color: "red" }}>© 2022 Drivers United </p></h2>
+      <Footer />
 
 
     </div>
