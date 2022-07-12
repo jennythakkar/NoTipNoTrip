@@ -1,6 +1,6 @@
 import React from 'react';
 import '../index.css';
-import Nav from "../Nav.png";
+import Nav from "../assets/Nav.png";
 
 function Home() {
   return (

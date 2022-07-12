@@ -1,5 +1,5 @@
 import React from 'react';
-import Pizza from "../pizza.png";
+import Pizza from "../assets/pizza.png";
 import '../index.css';
 
 

@@ -1,12 +1,12 @@
 import React from 'react';
 import '../index.css';
-import Stock from "../stock.png";
-import Running from "../running.png";
-import HandHold from "../handhold.png";
-import Rich from "../rich.png";
-import Power from "../power.png";
-import Symbol from "../symbol.png";
-import Nav from "../Nav.png";
+import Stock from "../assets/stock.png";
+import Running from "../assets/running.png";
+import HandHold from "../assets/handhold.png";
+import Rich from "../assets/rich.png";
+import Power from "../assets/power.png";
+import Symbol from "../assets/symbol.png";
+import Nav from "../assets/Nav.png";
 
 function About() {
   return (

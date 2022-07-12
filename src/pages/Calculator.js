@@ -1,5 +1,5 @@
 import React from 'react';
-import Symbol from "../symbol.png";
+import Symbol from "../assets/symbol.png";
 import '../index.css';
 
 
